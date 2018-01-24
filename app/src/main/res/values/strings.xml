@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab 1</string>
-    <string name = "hello_message">G'day Mate!</string>
-    <string name="ButtonText">I\’m a button</string>
+    <string name="app_name">Lab1</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="hello_message">Hello!</string>
+    <string name="button_text">I\'m a button</string>
+    <string name="login_name">Login name</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="check_box">Check Box</string>
+    <string name="switch_box">What does this do?</string>
+    <string name="image_desc">Image</string>
+    <string name="image_flag">Flag</string>
 </resources>
