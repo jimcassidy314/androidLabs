@@ -11,4 +11,10 @@
     <string name="switch_box">What does this do?</string>
     <string name="image_desc">Image</string>
     <string name="image_flag">Flag</string>
+    <string name="login_button">Login</string>
+    <string name="default_email">email@domain.com</string>
+    <string name="dialog_message">Do you want to Finish?</string>
+    <string name="dialog_title">Exit</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
 </resources>
