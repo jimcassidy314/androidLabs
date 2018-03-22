@@ -17,4 +17,11 @@
     <string name="dialog_title">Exit</string>
     <string name="ok">OK</string>
     <string name="cancel">CANCEL</string>
+    <string name="response">Here Is My Response</string>
+    <string name="weather">Weather Activity</string>
+    <string name="min">Minimum</string>
+    <string name="max">Maximum</string>
+    <string name="current">Current</string>
+    <string name="wind_speed">Wind Speed</string>
+
 </resources>

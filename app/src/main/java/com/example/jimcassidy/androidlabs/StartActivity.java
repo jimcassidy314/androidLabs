@@ -26,7 +26,7 @@ public class StartActivity extends Activity {
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(StartActivity.this, ListItemsActivity.class);
+                Intent intent = new Intent(StartActivity.this, WeatherActivity.class);
                 startActivityForResult(intent, 50);
             }
         });

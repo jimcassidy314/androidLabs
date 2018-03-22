@@ -5,4 +5,13 @@
     <string name="switch_box">C\'est quoi ca?</string>
     <string name="radio_button">Bouton Radio</string>
     <string name="check_box">Case à Cocher</string>
+    <string name="image_desc">Image</string>
+    <string name="image_flag">Drapeau</string>
+    <string name="login_button">Login</string>
+    <string name="default_email">email@domain.com</string>
+    <string name="dialog_message">Avez vous Finis?</string>
+    <string name="dialog_title">SORTIE</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ANNULER</string>
+    <string name="response">C\'ese ca mon repondre</string>
 </resources>
